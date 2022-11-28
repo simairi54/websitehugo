@@ -1,0 +1,22 @@
+# some information about you
+name: "Leo Simairi"
+nickname: "Simaz"
+#image: "images/avatar.png"
+
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+
+# give your contact information. they will be used in the footer
+contactInfo:
+  email: "simairi54@gmail.com"
+  phone: "+263719122219"
+  linked-in:
+    icon: linkedin
+    url: "https://www.linkedin.com/in/leo-simairi-92340155/"
+    text: "Leo Simairi"
+
+# a summary of what you do
+summary:
+- I am a Cloud/DevOps Engineer
+- I work with Cloud
+- I love to work with some fun projects

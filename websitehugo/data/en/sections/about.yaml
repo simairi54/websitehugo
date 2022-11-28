@@ -1,0 +1,87 @@
+section:
+  name: About # Title of section (default: "")
+  id: about # url id/slug of section *Required*
+  enable: true # Boolean to determine if this section is enabled (default: false)
+  weight: 1 # Order to display section in (default: alphabetical followed by weight)
+  showOnNavbar: true # Boolean to determine if a link should be shown for this section on the navbar
+  template: sections/about.html # allows you to point to a specific template.
+
+
+
+
+# your designation
+designation: IT Engineer | Cloud Engineer | DevOps Engineer
+# your company information
+company:
+  name: Zimbabwe Revenue Authority
+  url: "https://www.zimra.co.zw"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'A qualified IT/Cloud Engineer with 8+ years of experience providing IT support to leading organisations in Zimbabwe with
+networks of up to 3000 employees and 2,5 million active subscribers, maintaining IT system integrity for successful and
+ongoing business operations, as well as designing solutions that account for growth and new technologies of tomorrow.
+His heightened analytical and problem-solving ability, meticulous attention to detail and IT expertise combined with an
+approachable demeanour and interrelationship skills, has enabled him to provide helpful, innovative and practical IT
+solutions for colleagues at all levels, contributing to their ability to perform effectively and with confidence. He is
+well-positioned to add value to any organisation seeking an experienced IT/Cloud Engineer to collaborate with key
+stakeholders in order to achieve IT objectives.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/simairi54"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Leadership
+  percentage: 85
+  color: blue
+- name: Team Work
+  percentage: 90
+  color: yellow
+- name: Motivational skills
+  percentage: 90
+  color: green
+- name: Decision-making skills
+  percentage: 90
+  color: orange
+- name: Time Management
+  percentage: 90
+  color: yellow
+- name: Empathy
+  percentage: 90
+  color: blue
+
+  # your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "simairi54@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/simairi54"
+
+#- #name: Stackoverflow
+#  icon: "fab fa-stack-overflow"
+#  url: "#"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/leo-simairi-92340155/"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/sim_le"
+
+- name: Facebook
+  icon: "fab fa-facebook"
+  url: "https://www.facebook.com/leosimairi/"
